@@ -1,0 +1,1 @@
+Dream_Eater 50 100 none 0 20 Psychic requires_opponent_sleep absorb_small

@@ -1,0 +1,1 @@
+Thunder 80 30 Paralyze 30 5 Electric none none

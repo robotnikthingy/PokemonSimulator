@@ -1,0 +1,1 @@
+Mewtwo 240 140 15 50 30 Psychic none Confusion Psychic Confuse_Ray none

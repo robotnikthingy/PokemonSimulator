@@ -1,0 +1,1 @@
+Pikachu 100 110 20 50 30 Electric none Tackle Thundershock Thunder none

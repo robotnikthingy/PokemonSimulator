@@ -1,0 +1,1 @@
+Thundershock 40 80 Paralyze 10 20 Electric none none

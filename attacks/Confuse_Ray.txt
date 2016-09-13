@@ -1,0 +1,1 @@
+Confuse_Ray 0 60 Confuse 100 15 Psychic none none

@@ -1,0 +1,1 @@
+Charizard 200 130 25 50 30 Fire Flying Tackle Fireblast Ember none

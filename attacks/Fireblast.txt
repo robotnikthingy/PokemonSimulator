@@ -1,0 +1,1 @@
+Fireblast 90 50 Burn 20 5 Fire none none
